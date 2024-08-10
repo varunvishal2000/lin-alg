@@ -5,8 +5,8 @@
 | 1     | The geometry of linear equations      | 1.1-2.1                     |            |        |
 | 2     | Elimination with matrices             | 2.2-2.3                     |            |        |
 | 3     | Matrix operations and inverses        | 2.4-2.5                     | 11-08-2024 |        |
-| 4     | LU and LDU factorization              | 2.6                         |            |        |
-| 5     | Transposes and permutations           | 2.7                         |            |        |
+| 4     | LU and LDU factorization              | 2.6                         | 12-08-2024 |        |
+| 5     | Transposes and permutations           | 2.7                         | 13-08-2024 |        |
 | 6     | Vector spaces and subspaces           | 3.1                         |            |        |
 | 7     | The nullspace: Solving Ax = 0         | 3.2                         |            |        |
 | 8     | Rectangular PA = LU and Ax = b        | 3.3                         |            |        |
